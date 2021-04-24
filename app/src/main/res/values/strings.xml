@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherForecastAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">799dc417ccc768bd290fecf623d042f1</string>
+    <string name="title_activity_weather_navi">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
